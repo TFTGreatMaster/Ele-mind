@@ -1,0 +1,8 @@
+export const OP_TYPE_ADD_TAG = 'OP_TYPE_ADD_TAG';
+export const OP_TYPE_DELETE_TAG = 'OP_TYPE_DELETE_TAG';
+export const OP_TYPE_UPDATE_TAG = 'OP_TYPE_UPDATE_TAG';
+export const OP_TYPE_ADD_TOPIC_TAG = 'OP_TYPE_ADD_TOPIC_TAG';
+export const OP_TYPE_REMOVE_TOPIC_TAG = 'OP_TYPE_REMOVE_TOPIC_TAG';
+export const TAG_NAME_MAX_LEN = 50;
+export const EXT_DATA_KEY_TAGS = 'TAGS';
+export const EXT_KEY_TAGS = 'EXT_KEY_TAGS';
