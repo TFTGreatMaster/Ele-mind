@@ -1,4 +1,4 @@
-import { defaultTheme, OpType, SheetModel, ThemeType } from '@blink-mind/core';
+import { defaultTheme, OpType, SheetModel, ThemeType } from '@ele-mind/core';
 import {
   darkTheme1,
   theme1,

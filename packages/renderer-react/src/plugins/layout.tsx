@@ -8,7 +8,7 @@ import {
   SheetModel,
   Topic,
   TopicRelationship
-} from '@blink-mind/core';
+} from '@ele-mind/core';
 import {
   RootSubLinks,
   TopicDropEffect,

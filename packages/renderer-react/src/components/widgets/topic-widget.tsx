@@ -1,4 +1,4 @@
-import { TopicDirection } from '@blink-mind/core';
+import { TopicDirection } from '@ele-mind/core';
 import debug from 'debug';
 import * as React from 'react';
 import styled from 'styled-components';

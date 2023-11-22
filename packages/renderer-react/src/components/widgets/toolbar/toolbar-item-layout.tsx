@@ -1,4 +1,4 @@
-import { DiagramLayoutType, OpType } from '@blink-mind/core';
+import { DiagramLayoutType, OpType } from '@ele-mind/core';
 import { Menu, MenuItem, Popover } from '@blueprintjs/core';
 import * as React from 'react';
 import { getI18nText, I18nKey, Icon, IconName } from '../../../utils';

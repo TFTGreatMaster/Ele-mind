@@ -1,4 +1,4 @@
-import { ThemeType } from '@blink-mind/core';
+import { ThemeType } from '@ele-mind/core';
 
 export const themeRandomColorRound: ThemeType = {
   name: 'random-color-round',

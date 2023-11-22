@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/awehook/blink-mind"><img src="https://img.shields.io/github/license/awehook/blink-mind.svg" alt="MIT"/></a>
-    <a href="https://www.npmjs.com/package/@blink-mind/core"><img src="https://img.shields.io/npm/v/@blink-mind/core.svg?style=flat"/></a>
+    <a href="https://www.npmjs.com/package/@ele-mind/core"><img src="https://img.shields.io/npm/v/@ele-mind/core.svg?style=flat"/></a>
     <a href="https://join.slack.com/t/vscode-blink-mind/shared_invite/enQtODkyMzc0OTc0NDM1LWRlYjI3YzFmYjRiM2UwY2ExZGIzMDI3NzY4ODAwMmZlMTE3YjMxNGE1MDM4MTY5ZWNjZWJjYWQ4ZGFhZWZmZDc"><img src="https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=brightgreen" alt="Slack Widget"></a>
 </p>
 <p align="center">

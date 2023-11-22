@@ -1,5 +1,5 @@
 {
-  "name": "@blink-mind/plugins",
+  "name": "@ele-mind/plugins",
   "files": [
     "lib/",
     "iconfont/"
@@ -18,9 +18,9 @@
     "clean": "rimraf lib"
   },
   "peerDependencies": {
-    "@blink-mind/core": "*",
-    "@blink-mind/icons": "*",
-    "@blink-mind/renderer-react": "*",
+    "@ele-mind/core": "*",
+    "@ele-mind/icons": "*",
+    "@ele-mind/renderer-react": "*",
     "@blueprintjs/core": "*",
     "@blueprintjs/select": "*",
     "debug": "*",

@@ -1,5 +1,5 @@
 {
-  "name": "@blink-mind/plugin-topology-diagram",
+  "name": "@ele-mind/plugin-topology-diagram",
   "files": [
     "lib/",
     "iconfont/"
@@ -21,9 +21,9 @@
     "debug": "*",
     "react": "*",
     "styled-components": "*",
-    "@blink-mind/core": "*",
-    "@blink-mind/icons": "*",
-    "@blink-mind/renderer-react": "*"
+    "@ele-mind/core": "*",
+    "@ele-mind/icons": "*",
+    "@ele-mind/renderer-react": "*"
   },
   "dependencies": {
     "topology-activity-diagram": "^0.0.6",

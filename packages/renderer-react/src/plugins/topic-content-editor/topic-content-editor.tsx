@@ -1,4 +1,4 @@
-import { BlockType, DocModel, OpType } from '@blink-mind/core';
+import { BlockType, DocModel, OpType } from '@ele-mind/core';
 import cx from 'classnames';
 import { Stack } from 'immutable';
 import isUrl from 'is-url';

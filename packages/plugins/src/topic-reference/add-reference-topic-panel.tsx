@@ -1,5 +1,5 @@
-import { FocusMode, OpType } from '@blink-mind/core';
-import { Flex, getI18nText, I18nKey, ZIndex } from '@blink-mind/renderer-react';
+import { FocusMode, OpType } from '@ele-mind/core';
+import { Flex, getI18nText, I18nKey, ZIndex } from '@ele-mind/renderer-react';
 import { Button } from '@blueprintjs/core';
 import * as React from 'react';
 import styled from 'styled-components';

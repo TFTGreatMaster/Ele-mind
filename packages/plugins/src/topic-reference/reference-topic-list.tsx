@@ -1,11 +1,11 @@
-import { FocusMode } from '@blink-mind/core';
+import { FocusMode } from '@ele-mind/core';
 import {
   BaseProps,
   COLORS,
   getI18nText,
   I18nKey,
   stopPropagation
-} from '@blink-mind/renderer-react';
+} from '@ele-mind/renderer-react';
 import * as React from 'react';
 import styled from 'styled-components';
 import { ExtDataReference } from './ext-data-reference';

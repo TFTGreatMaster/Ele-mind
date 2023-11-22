@@ -5,7 +5,7 @@ import {
   SettingBoxContainer,
   SettingTitle,
   VListContainer
-} from '@blink-mind/renderer-react';
+} from '@ele-mind/renderer-react';
 import * as React from 'react';
 import {
   TopicTitleThumbnail,

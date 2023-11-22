@@ -16,16 +16,16 @@
     "lib": ["dom", "es2015"],
     "paths": {
       //      "@/*": ["src/*"],
-      "@blink-mind/core": ["packages/core/src"],
-      "@blink-mind/icons": ["packages/icons"],
-      "@blink-mind/renderer-react": ["packages/renderer-react/src"],
-      "@blink-mind/plugin-json-serializer": [
+      "@ele-mind/core": ["packages/core/src"],
+      "@ele-mind/icons": ["packages/icons"],
+      "@ele-mind/renderer-react": ["packages/renderer-react/src"],
+      "@ele-mind/plugin-json-serializer": [
         "packages/plugin-json-serializer/src"
       ],
-      "@blink-mind/plugin-topology-diagram": [
+      "@ele-mind/plugin-topology-diagram": [
         "packages/plugin-topology-diagram/src"
       ],
-      "@blink-mind/plugins": ["packages/plugins/src"]
+      "@ele-mind/plugins": ["packages/plugins/src"]
     }
   },
   "references": [
@@ -33,7 +33,7 @@
     { "path": "./packages/renderer-react" },
     { "path": "./packages/plugin-json-serializer" },
     { "path": "./packages/plugins" },
-    { "path": "./packages/plugin-topology-diagram" },
+    { "path": "./packages/plugin-topology-diagram" }
   ],
   "include": ["packages/*/src", "stories/"],
   "exclude": ["node_modules", "**/*.spec.ts", "./dist", "**/*.test.ts"]

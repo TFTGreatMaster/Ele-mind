@@ -1,4 +1,4 @@
-import { OpType } from '@blink-mind/core';
+import { OpType } from '@ele-mind/core';
 import { ContextMenuTarget, Divider, Menu, MenuItem } from '@blueprintjs/core';
 import * as React from 'react';
 import styled from 'styled-components';

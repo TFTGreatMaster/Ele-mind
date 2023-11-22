@@ -2,7 +2,7 @@ import rollupTs from 'rollup-plugin-typescript2';
 import commonjs from 'rollup-plugin-commonjs';
 import replace from 'rollup-plugin-replace';
 import cssPorter from 'rollup-plugin-css-porter';
-import scss from 'rollup-plugin-scss'
+import scss from 'rollup-plugin-scss';
 import path from 'path';
 
 function configure(pkg, env, target) {
@@ -13,13 +13,12 @@ function configure(pkg, env, target) {
   // const isProd = env === 'production';
   // const isUmd = target === 'umd';
   const isModule = target === 'module';
-  const pkgDir = pkg.name.substr('@blink-mind/'.length);
+  const pkgDir = pkg.name.substr('@ele-mind/'.length);
   const input = resolvePackage(`${pkgDir}/src/index.ts`);
   // console.log('input:', input);
   const deps = []
     .concat(pkg.dependencies ? Object.keys(pkg.dependencies) : [])
     .concat(pkg.peerDependencies ? Object.keys(pkg.peerDependencies) : []);
-
 
   const plugins = [
     // resolve({

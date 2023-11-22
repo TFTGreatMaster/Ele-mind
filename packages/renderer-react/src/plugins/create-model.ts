@@ -1,4 +1,4 @@
-import { DocModel, SheetModel } from '@blink-mind/core';
+import { DocModel, SheetModel } from '@ele-mind/core';
 import { List } from 'immutable';
 import { getI18nText, I18nKey } from '../utils';
 

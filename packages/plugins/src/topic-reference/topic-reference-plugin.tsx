@@ -8,13 +8,8 @@ import {
   SheetModelModifier,
   toDocModelModifierFunc,
   ViewModeMindMap
-} from '@blink-mind/core';
-import {
-  getI18nText,
-  I18nKey,
-  Icon,
-  PropKey
-} from '@blink-mind/renderer-react';
+} from '@ele-mind/core';
+import { getI18nText, I18nKey, Icon, PropKey } from '@ele-mind/renderer-react';
 import { MenuDivider, MenuItem } from '@blueprintjs/core';
 import * as React from 'react';
 import { AddReferenceTopicPanel } from './add-reference-topic-panel';

@@ -1,4 +1,4 @@
-import { BaseProps, PropKey } from '@blink-mind/renderer-react';
+import { BaseProps, PropKey } from '@ele-mind/renderer-react';
 import cx from 'classnames';
 import * as React from 'react';
 import Highlighter from 'react-highlight-words';

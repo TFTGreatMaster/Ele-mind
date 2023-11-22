@@ -1,9 +1,4 @@
-import {
-  getI18nText,
-  I18nKey,
-  Icon,
-  IconName
-} from '@blink-mind/renderer-react';
+import { getI18nText, I18nKey, Icon, IconName } from '@ele-mind/renderer-react';
 import { MenuItem } from '@blueprintjs/core';
 import debug from 'debug';
 import { List } from 'immutable';

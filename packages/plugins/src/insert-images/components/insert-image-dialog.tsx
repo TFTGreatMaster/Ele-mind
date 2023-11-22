@@ -1,4 +1,4 @@
-import { BaseProps, getI18nText, I18nKey } from '@blink-mind/renderer-react';
+import { BaseProps, getI18nText, I18nKey } from '@ele-mind/renderer-react';
 import { Button, FileInput } from '@blueprintjs/core';
 import React, { useState } from 'react';
 import styled from 'styled-components';

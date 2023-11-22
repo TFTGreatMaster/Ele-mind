@@ -1,4 +1,4 @@
-import { TopicDirection } from '@blink-mind/core';
+import { TopicDirection } from '@ele-mind/core';
 import React from 'react';
 import styled, { css } from 'styled-components';
 import { collapseRefKey, iconClassName } from '../../utils';

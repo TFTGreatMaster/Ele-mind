@@ -4,7 +4,7 @@ import {
   getI18nText,
   I18nKey,
   SettingBoxContainer
-} from '@blink-mind/renderer-react';
+} from '@ele-mind/renderer-react';
 import * as React from 'react';
 import { useState } from 'react';
 import { ExtDataTags, TagRecord } from '../ext-data-tags';

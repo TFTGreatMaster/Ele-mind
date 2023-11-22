@@ -8,7 +8,7 @@ import {
   SettingItemInput,
   SettingItemInputProps,
   SettingRow
-} from '@blink-mind/renderer-react';
+} from '@ele-mind/renderer-react';
 import { Alert } from '@blueprintjs/core';
 import * as React from 'react';
 import { useState } from 'react';

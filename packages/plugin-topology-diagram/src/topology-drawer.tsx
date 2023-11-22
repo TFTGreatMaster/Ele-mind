@@ -3,12 +3,12 @@ import {
   I18nKey,
   Icon,
   stopPropagation
-} from '@blink-mind/renderer-react';
+} from '@ele-mind/renderer-react';
 import { Drawer } from '@blueprintjs/core';
 import * as React from 'react';
 import { TopologyDiagram } from './topology-diagram';
 
-import { FocusMode, OpType } from '@blink-mind/core';
+import { FocusMode, OpType } from '@ele-mind/core';
 import styled from 'styled-components';
 import { TopologyDiagramUtils } from './topology-diagram-utils';
 import {

@@ -1,4 +1,4 @@
-import { DocModel, OpType, BlockType, FocusMode } from '@blink-mind/core';
+import { DocModel, OpType, BlockType, FocusMode } from '@ele-mind/core';
 import { Stack } from 'immutable';
 
 const log = require('debug')('plugin:undo');

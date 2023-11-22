@@ -1,4 +1,4 @@
-import { FocusMode, OpType } from '@blink-mind/core';
+import { FocusMode, OpType } from '@ele-mind/core';
 
 import debug from 'debug';
 

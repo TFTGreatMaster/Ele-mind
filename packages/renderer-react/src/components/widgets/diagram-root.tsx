@@ -1,5 +1,5 @@
 import { isTextInputEvent } from '@a-util/util';
-import { OpType } from '@blink-mind/core';
+import { OpType } from '@ele-mind/core';
 import { Icon } from '@blueprintjs/core';
 import { IconNames } from '@blueprintjs/icons';
 import { Tab, TabList, TabPanel, Tabs } from '@slim-ui/react-tabs';

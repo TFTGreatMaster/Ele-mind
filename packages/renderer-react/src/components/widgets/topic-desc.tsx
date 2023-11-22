@@ -1,4 +1,4 @@
-import { BlockType, OpType } from '@blink-mind/core';
+import { BlockType, OpType } from '@ele-mind/core';
 import * as React from 'react';
 import { iconClassName, IconName } from '../../utils';
 import { TopicBlockIcon } from '../common';

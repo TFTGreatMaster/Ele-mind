@@ -1,11 +1,11 @@
 {
-  "name": "@blink-mind/icons",
+  "name": "@ele-mind/icons",
   "files": [
     "iconfont/",
     "index.js"
   ],
   "main": "index.js",
-  "version": "0.0.20-beta.11",
+  "version": "0.0.0",
   "license": "MIT",
   "publishConfig": {
     "access": "public"

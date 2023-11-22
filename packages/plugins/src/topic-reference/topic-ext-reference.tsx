@@ -2,7 +2,7 @@ import {
   BaseProps,
   iconClassName,
   TopicBlockIcon
-} from '@blink-mind/renderer-react';
+} from '@ele-mind/renderer-react';
 import { Popover, PopoverInteractionKind } from '@blueprintjs/core';
 import * as React from 'react';
 import { ExtDataReference } from './ext-data-reference';

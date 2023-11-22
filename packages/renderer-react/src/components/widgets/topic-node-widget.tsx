@@ -1,4 +1,4 @@
-import { FocusMode, OpType, TopicDirection } from '@blink-mind/core';
+import { FocusMode, OpType, TopicDirection } from '@ele-mind/core';
 import { ContextMenuTarget } from '@blueprintjs/core';
 import debug from 'debug';
 import * as React from 'react';

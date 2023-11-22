@@ -3,7 +3,7 @@ import {
   getRelationship,
   OpType,
   TopicRelationship
-} from '@blink-mind/core';
+} from '@ele-mind/core';
 import debug from 'debug';
 import * as React from 'react';
 import styled from 'styled-components';

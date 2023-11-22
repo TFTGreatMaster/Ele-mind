@@ -7,7 +7,7 @@ import {
   SheetModel,
   Topic,
   TopicStyle
-} from '@blink-mind/core';
+} from '@ele-mind/core';
 
 export interface BaseProps {
   docModel: DocModel;

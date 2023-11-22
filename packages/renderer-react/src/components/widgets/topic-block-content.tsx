@@ -1,4 +1,4 @@
-import { FocusMode, OpType } from '@blink-mind/core';
+import { FocusMode, OpType } from '@ele-mind/core';
 import React from 'react';
 import styled from 'styled-components';
 import { Key } from 'ts-keycode-enum';

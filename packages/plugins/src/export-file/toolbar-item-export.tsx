@@ -2,7 +2,7 @@ import {
   browserDownloadFile,
   IconName,
   ToolbarItem
-} from '@blink-mind/renderer-react';
+} from '@ele-mind/renderer-react';
 import { Dialog, Menu, MenuDivider, MenuItem } from '@blueprintjs/core';
 import * as React from 'react';
 import { useState } from 'react';

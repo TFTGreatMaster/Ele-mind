@@ -3,7 +3,7 @@ import {
   SettingItemInput,
   SettingItemInputProps,
   SettingRow
-} from '@blink-mind/renderer-react';
+} from '@ele-mind/renderer-react';
 import { Checkbox } from '@blueprintjs/core';
 import React, { useState } from 'react';
 

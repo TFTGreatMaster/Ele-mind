@@ -1,4 +1,4 @@
-import { LinkStyle, TopicContentStyle, TopicStyle } from '@blink-mind/core';
+import { LinkStyle, TopicContentStyle, TopicStyle } from '@ele-mind/core';
 import * as React from 'react';
 import styled from 'styled-components';
 import { getI18nText, I18nKey } from '../../../utils';

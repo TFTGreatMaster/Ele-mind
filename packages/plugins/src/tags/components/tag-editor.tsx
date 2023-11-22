@@ -4,7 +4,7 @@ import {
   PanelTabRoot,
   SettingBoxContainer,
   SettingTitle
-} from '@blink-mind/renderer-react';
+} from '@ele-mind/renderer-react';
 import * as React from 'react';
 import { AddTagWidget } from './add-tag-widget';
 import { AllTagsWidget } from './all-tags-widget';

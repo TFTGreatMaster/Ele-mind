@@ -1,4 +1,4 @@
-import { IControllerRunContext } from '@blink-mind/core';
+import { IControllerRunContext } from '@ele-mind/core';
 import { Classes } from '@blueprintjs/core';
 
 export function ThemePlugin() {

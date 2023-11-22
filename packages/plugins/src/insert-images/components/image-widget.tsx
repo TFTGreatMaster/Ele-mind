@@ -1,4 +1,4 @@
-import { FocusMode, OpType } from '@blink-mind/core';
+import { FocusMode, OpType } from '@ele-mind/core';
 import {
   BaseProps,
   COLORS,
@@ -7,7 +7,7 @@ import {
   iconClassName,
   IconName,
   OutsideClickHandler
-} from '@blink-mind/renderer-react';
+} from '@ele-mind/renderer-react';
 import { useState } from 'react';
 import * as React from 'react';
 import styled from 'styled-components';

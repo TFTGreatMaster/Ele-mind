@@ -5,8 +5,8 @@ import {
   IDiagram,
   IDiagramProps,
   OnChangeFunction
-} from '@blink-mind/core';
-import '@blink-mind/icons';
+} from '@ele-mind/core';
+import '@ele-mind/icons';
 import { Hotkey, Hotkeys, HotkeysTarget } from '@blueprintjs/core';
 import '@blueprintjs/core/lib/css/blueprint.css';
 import '@blueprintjs/select/lib/css/blueprint-select.css';

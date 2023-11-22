@@ -2,7 +2,7 @@ import {
   browserOpenFile,
   IconName,
   ToolbarItem
-} from '@blink-mind/renderer-react';
+} from '@ele-mind/renderer-react';
 import * as React from 'react';
 export function ToolbarItemOpenFile(props) {
   const onClickOpenFile = () => {

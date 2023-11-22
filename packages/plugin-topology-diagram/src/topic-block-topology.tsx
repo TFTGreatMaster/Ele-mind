@@ -1,4 +1,4 @@
-import { iconClassName, TopicBlockIcon } from '@blink-mind/renderer-react';
+import { iconClassName, TopicBlockIcon } from '@ele-mind/renderer-react';
 import * as React from 'react';
 
 import {

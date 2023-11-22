@@ -1,5 +1,5 @@
 {
-  "name": "@blink-mind/plugin-json-serializer",
+  "name": "@ele-mind/plugin-json-serializer",
   "files": [
     "lib/"
   ],
@@ -18,10 +18,8 @@
   "peerDependencies": {
     "debug": "*",
     "immutable": "*",
-    "@blink-mind/core": "*"
+    "@ele-mind/core": "*"
   },
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "gitHead": "0a975dead37d717608e7661df1291ea38b441c0e"
 }

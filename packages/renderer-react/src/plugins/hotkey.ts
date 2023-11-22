@@ -1,6 +1,6 @@
-import { BlockType, OpType } from '@blink-mind/core';
+import { BlockType, OpType } from '@ele-mind/core';
 
-import { ViewModeMindMap } from '@blink-mind/core';
+import { ViewModeMindMap } from '@ele-mind/core';
 import { IHotkeyProps } from '@blueprintjs/core';
 import { HotKeyName, HotKeysConfig } from '../types';
 

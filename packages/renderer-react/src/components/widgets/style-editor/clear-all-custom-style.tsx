@@ -1,4 +1,4 @@
-import { OpType } from '@blink-mind/core';
+import { OpType } from '@ele-mind/core';
 import { Button } from '@blueprintjs/core';
 import * as React from 'react';
 import { getI18nText, I18nKey } from '../../../utils';

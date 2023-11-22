@@ -1,4 +1,4 @@
-import { BlockType, DescBlockData, FocusMode, OpType } from '@blink-mind/core';
+import { BlockType, DescBlockData, FocusMode, OpType } from '@ele-mind/core';
 import { Drawer } from '@blueprintjs/core';
 import * as React from 'react';
 import { useRef } from 'react';

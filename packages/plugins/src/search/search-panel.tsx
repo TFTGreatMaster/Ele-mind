@@ -1,10 +1,10 @@
-import { FocusMode, OpType } from '@blink-mind/core';
+import { FocusMode, OpType } from '@ele-mind/core';
 import {
   BaseProps,
   getI18nText,
   I18nKey,
   PropKey
-} from '@blink-mind/renderer-react';
+} from '@ele-mind/renderer-react';
 import { IInputGroupProps, Keys } from '@blueprintjs/core';
 import { ItemListPredicate, ItemRenderer, Omnibar } from '@blueprintjs/select';
 import * as React from 'react';

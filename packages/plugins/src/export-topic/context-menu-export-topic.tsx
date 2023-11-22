@@ -1,4 +1,4 @@
-import { ViewModeMindMap } from '@blink-mind/core';
+import { ViewModeMindMap } from '@ele-mind/core';
 import {
   BaseProps,
   getI18nText,
@@ -7,7 +7,7 @@ import {
   IconName,
   RefKey,
   topicWidgetRootRefKey
-} from '@blink-mind/renderer-react';
+} from '@ele-mind/renderer-react';
 import { MenuItem } from '@blueprintjs/core';
 import { saveAs } from 'file-saver';
 import { toBlob, toSvgDataURL } from 'html-to-image';

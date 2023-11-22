@@ -1,5 +1,5 @@
-import { JsonSerializerPlugin } from '@blink-mind/plugin-json-serializer';
-import TopologyDiagramPlugin from '@blink-mind/plugin-topology-diagram';
+import { JsonSerializerPlugin } from '@ele-mind/plugin-json-serializer';
+import TopologyDiagramPlugin from '@ele-mind/plugin-topology-diagram';
 import {
   ExportFilePlugin,
   ExportTopicPlugin,
@@ -11,14 +11,14 @@ import {
   ThemeSelectorPlugin,
   // TopicReferencePlugin,
   UndoRedoPlugin
-} from '@blink-mind/plugins';
+} from '@ele-mind/plugins';
 import {
   Diagram,
   ElementItemConfigs,
   iconClassName,
   IconName,
   ToolbarItem
-} from '@blink-mind/renderer-react';
+} from '@ele-mind/renderer-react';
 import { Classes } from '@blueprintjs/core';
 import { storiesOf } from '@storybook/react';
 import * as React from 'react';

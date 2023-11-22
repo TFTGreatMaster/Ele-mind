@@ -1,4 +1,4 @@
-import { LinkStyle, TopicDirection } from '@blink-mind/core';
+import { LinkStyle, TopicDirection } from '@ele-mind/core';
 import React from 'react';
 import styled from 'styled-components';
 import {

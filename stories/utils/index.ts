@@ -1,4 +1,4 @@
-import { SheetModel } from '@blink-mind/core';
+import { SheetModel } from '@ele-mind/core';
 
 export function generateSimpleModel() {
   return SheetModel.create({

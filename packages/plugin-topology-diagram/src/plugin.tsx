@@ -2,8 +2,8 @@ import {
   BaseSheetModelModifierArg,
   SheetModelModifier,
   toDocModelModifierFunc
-} from '@blink-mind/core';
-import { getI18nText, I18nKey, Icon } from '@blink-mind/renderer-react';
+} from '@ele-mind/core';
+import { getI18nText, I18nKey, Icon } from '@ele-mind/renderer-react';
 import { MenuDivider, MenuItem } from '@blueprintjs/core';
 import * as React from 'react';
 import { TopicBlockTopology } from './topic-block-topology';

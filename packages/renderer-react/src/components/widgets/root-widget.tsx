@@ -1,4 +1,4 @@
-import { DiagramLayoutType, KeyType, TopicDirection } from '@blink-mind/core';
+import { DiagramLayoutType, KeyType, TopicDirection } from '@ele-mind/core';
 import debug from 'debug';
 import * as React from 'react';
 import styled from 'styled-components';

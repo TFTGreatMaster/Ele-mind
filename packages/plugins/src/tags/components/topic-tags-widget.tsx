@@ -5,7 +5,7 @@ import {
   SettingBoxContainer,
   SettingGroup,
   SettingTitle
-} from '@blink-mind/renderer-react';
+} from '@ele-mind/renderer-react';
 import * as React from 'react';
 import { TagRecord } from '../ext-data-tags';
 import { OP_TYPE_ADD_TOPIC_TAG, OP_TYPE_REMOVE_TOPIC_TAG } from '../utils';

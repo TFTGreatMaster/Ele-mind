@@ -1,5 +1,5 @@
-import { OpType } from '@blink-mind/core';
-import { ElementItemConfigs, HotKeysConfig } from '@blink-mind/renderer-react';
+import { OpType } from '@ele-mind/core';
+import { ElementItemConfigs, HotKeysConfig } from '@ele-mind/renderer-react';
 import * as React from 'react';
 import { SearchPanel } from './search-panel';
 import { ToolbarItemSearch } from './toolbar-item-search';

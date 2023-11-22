@@ -3,7 +3,7 @@ import {
   IconName,
   ToolbarGroupItem,
   ToolbarItem
-} from '@blink-mind/renderer-react';
+} from '@ele-mind/renderer-react';
 import * as React from 'react';
 
 export function ToolbarGroupItemUndoRedo(props) {

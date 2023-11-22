@@ -1,4 +1,4 @@
-import { OpType } from '@blink-mind/core';
+import { OpType } from '@ele-mind/core';
 import {
   BaseProps,
   Btn,
@@ -7,7 +7,7 @@ import {
   Icon,
   IconName,
   ZIndex
-} from '@blink-mind/renderer-react';
+} from '@ele-mind/renderer-react';
 import { Alert, Classes, Position, Tooltip } from '@blueprintjs/core';
 import * as React from 'react';
 import styled from 'styled-components';

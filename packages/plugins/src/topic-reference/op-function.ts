@@ -1,4 +1,4 @@
-import { BaseDocModelModifierArg, KeyType } from '@blink-mind/core';
+import { BaseDocModelModifierArg, KeyType } from '@ele-mind/core';
 import { List } from 'immutable';
 import { ExtDataReference, ReferenceRecord } from './ext-data-reference';
 import { EXT_DATA_KEY_TOPIC_REFERENCE } from './utils';
