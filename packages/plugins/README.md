@@ -1,1 +1,1 @@
-A topic reference plugin for blink-mind.
+A topic reference plugin for ele-mind.

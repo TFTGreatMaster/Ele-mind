@@ -1,1 +1,1 @@
-A topology diagram plugin for blink-mind.
+A topology diagram plugin for ele-mind.

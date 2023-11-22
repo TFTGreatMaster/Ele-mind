@@ -1,1 +1,1 @@
-The json serializer plugin for blink-mind.
+The json serializer plugin for ele-mind.

@@ -130,7 +130,7 @@ export function ThemeEditor(props: BaseProps) {
   const handleExportTheme = e => {
     // setShowExportDialog(true);
     const text = JSON.stringify(theme);
-    browserDownloadText(text, 'blink-mind-theme.json');
+    browserDownloadText(text, 'ele-mind-theme.json');
   };
   const handleImportTheme = e => {
     browserOpenFile('.json,.txt').then(txt => {
